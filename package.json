@@ -3,13 +3,13 @@
   "version": "6.0.1",
   "author": "xiejiahe",
   "bugs": {
-    "url": "https://github.com/xjh22222228/nav/issues"
+    "url": "https://github.com/Rakers1024/nav/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/nav.git"
+    "url": "git+https://github.com/Rakers1024/nav.git"
   },
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/Rakers1024/nav",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port=7001",
@@ -28,7 +28,7 @@
     "@angular/platform-browser-dynamic": "~11.2.12",
     "@angular/router": "~11.2.12",
     "@types/nprogress": "^0.2.0",
-    "axios": "^0.21.1",
+    "axios": "^0.27.2",
     "clipboard": "^2.0.8",
     "file-saver": "^2.0.5",
     "hotkeys-js": "^3.8.3",
@@ -43,6 +43,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
+    "normalize-url": "^7.0.3",
     "@angular-devkit/build-angular": "~0.1102.11",
     "@angular/cli": "~11.2.11",
     "@angular/compiler-cli": "~11.2.12",
