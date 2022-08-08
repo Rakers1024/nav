@@ -15,13 +15,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://bing.img.run/rand_uhd.php",
+      "src": "https://bing.img.run/rand.php",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://bing.img.run/rand.php?type=1",
       "url": "",
       "width": null,
       "height": null
@@ -32,13 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://bing.img.run/rand_uhd.php",
+      "src": "https://bing.img.run/rand.php",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://bing.img.run/rand.php?type=1",
       "url": "",
       "width": null,
       "height": null
@@ -49,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://bing.img.run/rand_uhd.php",
+      "src": "https://bing.img.run/rand.php?type=999",
       "url": "",
       "width": null,
       "height": null
